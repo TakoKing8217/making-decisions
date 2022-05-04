@@ -32,8 +32,9 @@ if (johnSnowHealth <= jamieLannisterAttack - johnSnowDefence) {
   );
 }
 
+//This is a change!
 
-// You can declare something with a null or undefined and 
+// You can declare something with a null or undefined and
 // then update its value down the code
-// When working with a big problem its best to break it down 
+// When working with a big problem its best to break it down
 // into pseudo code
